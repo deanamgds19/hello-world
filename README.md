@@ -1,4 +1,4 @@
 # hello-world
 Stats 21 intro github
 
-Hey world I'm Deana and I love life
+Hello, it's time to have fun. This is Deana with an awesome life.
